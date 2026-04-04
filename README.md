@@ -32,24 +32,6 @@ Database
 
 ⸻
 
-Project Structure
-
-social-media-website
-│
-├── Frontend
-│   ├── src
-│   ├── public
-│   ├── package.json
-│   └── vite.config.js
-│
-├── backend
-│   ├── models
-│   ├── routes
-│   ├── server.js
-│   └── package.json
-│
-├── .gitignore
-└── README.md
 
 Future Improvements
 	•	User authentication
